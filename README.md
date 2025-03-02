@@ -13,7 +13,7 @@
   - 2++ Years of experience with **Next.js + TypeScript** (2022-now).
 - **Backend Development**:
   - Currently learning **Rust** for backend projects (2 months and counting! 🚀).
-  - Previously dabbled in **Golang** for 2 months before switching to Rust.
+  - Previously dabbled in **Golang** for 1 year before switching to Rust.
 - **Game Development**:
   - Exploring game development with engines like **Bevy** or **fyrox**  ?????.
   - Interested in building **indie games** and experimenting with game mechanics.
@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 What I’m Up To:
-- 🔧 Transitioning into **backend development** with Rust to build scalable and performant systems.
+- 🔧 Transitioning into **backend development** with golang, Rust to build scalable and performant systems.
 - 🎮 Diving into **game development** to create fun and engaging experiences.
 - 🚀 Constantly upgrading my skills to become a **full-stack developer**.
 
